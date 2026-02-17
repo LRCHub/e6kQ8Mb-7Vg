@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私たちの望むものは",
+  "base_artist": "kokua",
+  "createdAt": "2026-02-17T21:40:01.280443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私たちの望むものは",
+      "artist": "kokua",
+      "has_synced": false,
+      "path": "select/pl_01_私たちの望むものは_kokua.txt"
+    }
+  ]
+}
